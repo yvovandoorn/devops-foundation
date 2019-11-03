@@ -9,8 +9,7 @@ We are Stichting DevOps Foundation. We are the financial and legal non-profit en
 
 ## our boardmembers
 
-* Harm Boertien
+* Harm Boertien (chairman)
+* Yvo van Doorn (treasurer)
 * Thomas Krag
-* Mine Heck
-* Yvo van Doorn
 * Peter Nijenhuis
