@@ -20,10 +20,10 @@ description: Homepage of Stichting DevOps
 
 # List of links in the navigation bar
 navbar-links:
-  2020 Conferences:
-    - devopsdays Amsterdam 2020: "https://devopsdays.org/events/2020-amsterdam/welcome/"
-    - devopsdays Eindhoven 2020: "https://devopsdays.org/events/2020-eindhoven/welcome/"
+  2021 Conference:
+    - devopsdays oNLine (Amsterdam) 2021: "https://devopsdays.org/events/amsterdam/welcome/"
   Prior Conferences:
+    - devopsdays oNLine 2020: "https://devopsdays.org/events/2020-amsterdam/welcome/"
     - devopsdays Amsterdam 2019: "https://devopsdays.org/events/2019-amsterdam/welcome/"
     - DevOpsDays Ghent 2019: "https://devopsdays.org/events/2019-ghent/welcome/"
     - devopsdays Amsterdam 2018: "https://devopsdays.org/events/2018-amsterdam/welcome/"
