@@ -21,7 +21,7 @@ description: Homepage of Stichting DevOps
 # List of links in the navigation bar
 navbar-links:
   2021 Conference:
-    - devopsdays oNLine (Amsterdam) 2021: "https://devopsdays.org/events/amsterdam/welcome/"
+    - devopsdays oNLine (Amsterdam) 2021: "https://devopsdays.org/amsterdam"
   Prior Conferences:
     - devopsdays oNLine 2020: "https://devopsdays.org/events/2020-amsterdam/welcome/"
     - devopsdays Amsterdam 2019: "https://devopsdays.org/events/2019-amsterdam/welcome/"
