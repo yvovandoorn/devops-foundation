@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_yvovandoorn_devops_foundation_1710149849139-push-trigger-input-set
+  identifier: Build_yvovandoorn_devops_foundation_1710149849139pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_yvovandoorn_devops_foundation_1710149849139
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
