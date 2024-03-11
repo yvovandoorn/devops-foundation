@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_yvovandoorn_devops_foundation_1710149849139-pr-trigger-input-set
+  identifier: Build_yvovandoorn_devops_foundation_1710149849139prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_yvovandoorn_devops_foundation_1710149849139
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
